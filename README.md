@@ -14,10 +14,13 @@ The likely-fit labels come from an earlier GPT-4o screen; they are not verified 
 | `reconstructed_dataset_200/job_descriptions_20/` | The 20 archived postings and their source URL/hash manifest |
 | `reconstructed_dataset_200/injection_payloads.json` | One job-independent instruction and 20 posting-specific skill/experience payloads |
 | `reconstructed_dataset_200/injected_manifest.csv` | Paths and hashes for 400 injected PDF variants |
+| `reconstructed_dataset_200/clean_pdfs/` | 200 browsable clean resume PDFs, organized by job-description ID |
+| `reconstructed_dataset_200/font_injected_pdfs/instruction/` | 200 instruction-injected resume PDFs |
+| `reconstructed_dataset_200/font_injected_pdfs/data/` | 200 job-specific data-injected resume PDFs |
 | `reconstructed_dataset_200/resume_pdf_dataset_200.zip` | Downloadable archive of 200 clean and 400 injected PDFs, plus extracted attack text |
 | `reconstructed_dataset_200/all_models_comparison_600.csv` | Paired clean/instruction/data results for GPT-4o, GPT-5.5, Claude Haiku 4.5, and Claude Opus 4.6 |
 
-The individual PDF files are bundled in the versioned ZIP rather than expanded into 600 Git paths. The full original Kaggle archive and experiment font binary are not redistributed. The manifests, payloads, archived job texts, and model results are versioned. See [the dataset card](reconstructed_dataset_200/DATASET.md) for provenance and fields.
+The 600 individual PDFs are available as browsable repository files and in the versioned ZIP for bulk download. The full original Kaggle archive and experiment font binary are not redistributed. The manifests, payloads, archived job texts, and model results are versioned. See [the dataset card](reconstructed_dataset_200/DATASET.md) for provenance and fields.
 
 ## Rebuild the PDF conditions
 
