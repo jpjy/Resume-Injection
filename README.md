@@ -16,7 +16,6 @@ The likely-fit labels come from an earlier GPT-4o screen; they are not verified 
 | `reconstructed_dataset_200/injected_manifest.csv` | Paths and hashes for 400 injected PDF variants |
 | `reconstructed_dataset_200/resume_pdf_dataset_200.zip` | Downloadable archive of 200 clean and 400 injected PDFs, plus extracted attack text |
 | `reconstructed_dataset_200/all_models_comparison_600.csv` | Paired clean/instruction/data results for GPT-4o, GPT-5.5, Claude Haiku 4.5, and Claude Opus 4.6 |
-| `paper_icassp_2027/` | Five-page ICASSP draft and plotted vector Figure 1 |
 
 The individual PDF files are bundled in the versioned ZIP rather than expanded into 600 Git paths. The full original Kaggle archive and experiment font binary are not redistributed. The manifests, payloads, archived job texts, and model results are versioned. See [the dataset card](reconstructed_dataset_200/DATASET.md) for provenance and fields.
 
@@ -36,13 +35,7 @@ python scripts/generate_reconstructed_injections.py
 
 This creates 200 instruction and 200 job-specific data PDFs. It checks page count, extraction order, payload presence, and preservation of source text. The instruction is identical across postings; the data condition uses one distinct payload per posting.
 
-`scripts/evaluate_reconstructed_gpt4o_all.py`, `evaluate_reconstructed_gpt55_all.py`, and `evaluate_reconstructed_claude_all.py` rerun API evaluations. They request keys from the environment or an interactive prompt; no key is stored in this repository. API calls are not needed to inspect the saved results. To recalculate the manuscript's summary and job heatmap without API calls:
-
-```bash
-python paper_icassp_2027/analyze_results.py
-```
-
-The paper compiles with `latexmk -pdf main.tex` from inside `paper_icassp_2027/`. Figure 1 is a standalone vector PDF produced by `plot_figure_font.py`, so Overleaf does not need TikZ to render its arrows.
+`scripts/evaluate_reconstructed_gpt4o_all.py`, `evaluate_reconstructed_gpt55_all.py`, and `evaluate_reconstructed_claude_all.py` rerun API evaluations. They request keys from the environment or an interactive prompt; no key is stored in this repository. API calls are not needed to inspect the saved results.
 
 ## Publication notes
 

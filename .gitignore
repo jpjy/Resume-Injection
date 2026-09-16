@@ -1,12 +1,6 @@
 __pycache__/
 *.pyc
 *.log
-*.aux
-*.bbl
-*.blg
-*.fdb_latexmk
-*.fls
-*.out
 
 source_resumes_300/source_archive.zip
 source_resumes_300/pdfs/
