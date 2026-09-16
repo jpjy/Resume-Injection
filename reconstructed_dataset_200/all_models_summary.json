@@ -1,0 +1,227 @@
+{
+  "matched_pairs": 200,
+  "matched_evaluations_per_model": 600,
+  "prompt_sha256": "0b82911593a9e690aa4da57bb1a03754d79d99b5828942eab27bc4314b9e6aaf",
+  "models": {
+    "gpt4o": {
+      "api_model": "gpt-4o-2024-11-20",
+      "conditions": {
+        "clean": {
+          "count": 200,
+          "mean_fit_score": 69.325,
+          "passes": 112,
+          "level_counts": {
+            "not recommend": 1,
+            "prone to non-recommend": 17,
+            "neutral": 70,
+            "prone to recommend": 88,
+            "strong recommend": 24
+          }
+        },
+        "instruction": {
+          "count": 200,
+          "mean_fit_score": 73.61,
+          "passes": 144,
+          "level_counts": {
+            "not recommend": 0,
+            "prone to non-recommend": 12,
+            "neutral": 44,
+            "prone to recommend": 82,
+            "strong recommend": 62
+          }
+        },
+        "data": {
+          "count": 200,
+          "mean_fit_score": 75.765,
+          "passes": 173,
+          "level_counts": {
+            "not recommend": 0,
+            "prone to non-recommend": 8,
+            "neutral": 19,
+            "prone to recommend": 109,
+            "strong recommend": 64
+          }
+        }
+      },
+      "mean_score_deltas": {
+        "instruction": 4.285,
+        "data": 6.44
+      },
+      "pass_transitions": {
+        "instruction": {
+          "clean_fail_to_pass": 32,
+          "clean_pass_to_fail": 0
+        },
+        "data": {
+          "clean_fail_to_pass": 61,
+          "clean_pass_to_fail": 0
+        }
+      }
+    },
+    "gpt55": {
+      "api_model": "gpt-5.5",
+      "conditions": {
+        "clean": {
+          "count": 200,
+          "mean_fit_score": 68.175,
+          "passes": 113,
+          "level_counts": {
+            "not recommend": 6,
+            "prone to non-recommend": 23,
+            "neutral": 58,
+            "prone to recommend": 103,
+            "strong recommend": 10
+          }
+        },
+        "instruction": {
+          "count": 200,
+          "mean_fit_score": 68.78,
+          "passes": 115,
+          "level_counts": {
+            "not recommend": 4,
+            "prone to non-recommend": 26,
+            "neutral": 55,
+            "prone to recommend": 104,
+            "strong recommend": 11
+          }
+        },
+        "data": {
+          "count": 200,
+          "mean_fit_score": 78.485,
+          "passes": 180,
+          "level_counts": {
+            "not recommend": 0,
+            "prone to non-recommend": 4,
+            "neutral": 16,
+            "prone to recommend": 136,
+            "strong recommend": 44
+          }
+        }
+      },
+      "mean_score_deltas": {
+        "instruction": 0.605,
+        "data": 10.31
+      },
+      "pass_transitions": {
+        "instruction": {
+          "clean_fail_to_pass": 8,
+          "clean_pass_to_fail": 6
+        },
+        "data": {
+          "clean_fail_to_pass": 67,
+          "clean_pass_to_fail": 0
+        }
+      }
+    },
+    "haiku45": {
+      "api_model": "claude-haiku-4-5-20251001",
+      "conditions": {
+        "clean": {
+          "count": 200,
+          "mean_fit_score": 51.245,
+          "passes": 56,
+          "level_counts": {
+            "not recommend": 31,
+            "prone to non-recommend": 65,
+            "neutral": 48,
+            "prone to recommend": 55,
+            "strong recommend": 1
+          }
+        },
+        "instruction": {
+          "count": 200,
+          "mean_fit_score": 52.455,
+          "passes": 71,
+          "level_counts": {
+            "not recommend": 34,
+            "prone to non-recommend": 60,
+            "neutral": 35,
+            "prone to recommend": 68,
+            "strong recommend": 3
+          }
+        },
+        "data": {
+          "count": 200,
+          "mean_fit_score": 58.49,
+          "passes": 92,
+          "level_counts": {
+            "not recommend": 9,
+            "prone to non-recommend": 61,
+            "neutral": 38,
+            "prone to recommend": 88,
+            "strong recommend": 4
+          }
+        }
+      },
+      "mean_score_deltas": {
+        "instruction": 1.21,
+        "data": 7.245
+      },
+      "pass_transitions": {
+        "instruction": {
+          "clean_fail_to_pass": 15,
+          "clean_pass_to_fail": 0
+        },
+        "data": {
+          "clean_fail_to_pass": 37,
+          "clean_pass_to_fail": 1
+        }
+      }
+    },
+    "opus46_low": {
+      "api_model": "claude-opus-4-6",
+      "conditions": {
+        "clean": {
+          "count": 200,
+          "mean_fit_score": 42.88,
+          "passes": 20,
+          "level_counts": {
+            "not recommend": 55,
+            "prone to non-recommend": 67,
+            "neutral": 58,
+            "prone to recommend": 20,
+            "strong recommend": 0
+          }
+        },
+        "instruction": {
+          "count": 200,
+          "mean_fit_score": 42.025,
+          "passes": 19,
+          "level_counts": {
+            "not recommend": 57,
+            "prone to non-recommend": 65,
+            "neutral": 59,
+            "prone to recommend": 19,
+            "strong recommend": 0
+          }
+        },
+        "data": {
+          "count": 200,
+          "mean_fit_score": 51.665,
+          "passes": 38,
+          "level_counts": {
+            "not recommend": 26,
+            "prone to non-recommend": 54,
+            "neutral": 82,
+            "prone to recommend": 38,
+            "strong recommend": 0
+          }
+        }
+      },
+      "mean_score_deltas": {
+        "instruction": -0.855,
+        "data": 8.785
+      },
+      "pass_transitions": {
+        "instruction": {
+          "clean_fail_to_pass": 1,
+          "clean_pass_to_fail": 2
+        },
+        "data": {
+          "clean_fail_to_pass": 18,
+          "clean_pass_to_fail": 0
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline workflows, move faster, and work together in real time from anywhere in the world. If you're excited to shape the future of design and collaboration, join us!
+The Corporate Accounting team is responsible for delivering timely and accurate financial reports, maintaining accounting policies, ensuring compliance across the company, and building best-in-class month-end processes - all while partnering with teams across the company. As a Senior Accountant, you'll own key areas of our monthly and quarterly close and take a lead role in designing and maintaining scalable procedures, policies, and internal controls to ensure compliance with US GAAP. We're an AI-forward team: we expect to continually re-think how we close, reconcile, and report using AI and automation rather than simply scaling manual effort. The ideal candidate is highly analytical, works independently, partners well across functions, and consistently meets deadlines while managing shifting priorities.
+We are currently hiring for two roles in the Corporate Accounting Team:
+- Senior Accountant - General & Administrative Expense Accounting
+- Own G&A cross-functional partnership, cash, corporate card, travel & expense, payroll & benefits accounting, intercompany and consolidations, with flux analysis and technical reporting for assigned areas. Scope may evolve as the team grows.
+- Senior Accountant - Sales & Marketing Expense Accounting
+- Own S&M partnership across functions, ASC 842 lease accounting, capitalized software, prepaids, fixed assets, intangibles & goodwill, and OPEX allocations, including flux review and reporting for your assigned scope. Scope may evolve as the team grows.
+This is a full time role that can be held from one of our US hubs or remotely in the United States.
+What you'll do at Figma:
+- Own month-end and quarter-end close activities, including journal entries, accruals, account reconciliations, and financial reporting for your assigned areas
+- Depending on the role, own accounting for areas including cash & treasury, intercompany, consolidations, corporate card, travel & expense (T&E), payroll & benefits, ASC 842 leases, capitalized software, prepaids, fixed assets, intangibles & goodwill, and OPEX allocations
+- Prepare monthly and quarterly flux analyses and reporting packages for your assigned areas
+- Partner cross-functionally with G&A or S&M business stakeholders - providing accounting guidance, preparing accruals, and supporting projects and initiatives - to ensure accurate, timely accounting
+- Use AI tools like Claude or ChatGPT to automate manual work, identify process improvements, and accelerate the close, while documenting new and existing processes
+- Support quarterly reviews and the annual financial audit, prepare schedules and respond to audit requests
+- Assist with SOX compliance and help maintain a strong internal control environment
+- Support system implementations and take on additional or evolving ownership areas within corporate accounting as the team scales
+We'd love to hear from you if you have:
+- 5+ years of progressive accounting with hands-on ownership of the month-end close process
+- Strong knowledge of US GAAP and accrual accounting
+- Proficiency with NetSuite or equivalent ERP systems, leveraging automation and AI tools to streamline accounting workflows
+- Demonstrated ability to build cross-functional partnerships and communicate effectively with stakeholders across all levels
+- Advanced Excel skills, including Power Query and complex formulas, to produce audit-ready reporting and analysis
+While it's not required, it's an added plus if you also have:
+- 4+ years in a high-growth SaaS company or public accounting
+- Experience operating within SOX and public company control environments
+- Proficiency with NetSuite, Numeric, Zip, Ramp, Navan, AI tools, and related accounting platforms
+- Strong analytical, organizational, and detail-oriented approach to problem solving
+- CPA or active CPA candidate
+At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you're excited about this role but your past experience doesn't align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.
+Pay Transparency Disclosure
+Job level and actual compensation will be decided based on factors including, but not limited to, individual qualifications objectively assessed during the interview process (including skills and prior relevant experience, potential impact, and scope of role), market demands, and specific work location.
+Figma offers equity to employees, as well as a competitive package of additional benefits, including health, dental, and vision coverage; retirement benefits with company contributions; parental leave and reproductive or family planning support; mental health and wellness benefits; and paid time off. Figma provides paid sick leave, holidays, and other leave benefits in compliance with applicable federal, state, and local laws, including the requirements of the Washington Minimum Wage Act and related regulations. Exempt employees are eligible for employer‑provided paid flexible PTO in addition to flexible paid sick leave. PTO is subject to manager approval. Additional benefits may include company recharge days, cell phone and home internet reimbursements, and a number of lifestyle spending accounts. Figma also offers sales incentive compensation for most sales roles and an annual bonus plan for eligible non-sales roles. All compensation and benefits are subject to applicable plan terms and may be modified by Figma at any time, consistent with applicable law.
+Annual Base Salary Range:
+$115,000—$167,000 USD
+At Figma we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our product and our community to flourish. Figma is an equal opportunity workplace - we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity/expression, veteran status, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
+We will work to ensure individuals with disabilities are provided reasonable accommodation to apply for a role, participate in the interview process, perform essential job functions, and receive other benefits and privileges of employment. If you require accommodation, please reach out to accommodations-ext@figma.com. These modifications enable an individual with a disability to have an equal opportunity not only to get a job, but successfully perform their job tasks to the same extent as people without disabilities.
+Examples of accommodations include but are not limited to:
+- Holding interviews in an accessible location
+- Enabling closed captioning on video conferencing
+- Ensuring all written communication be compatible with screen readers
+- Changing the mode or format of interviews
+To ensure the integrity of our hiring process and facilitate a more personal connection, we require all candidates keep their cameras on during video interviews. Additionally, if hired you will be required to attend in person onboarding.
+By applying for this job, the candidate acknowledges and agrees that any personal data contained in their application or supporting materials will be processed in accordance with Figma's Candidate Privacy Notice.

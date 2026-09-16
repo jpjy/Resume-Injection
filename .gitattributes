@@ -1,0 +1,4 @@
+*.pdf binary
+*.ttf binary
+*.zip binary
+*.csv text eol=lf

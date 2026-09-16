@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.log
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+
+source_resumes_300/source_archive.zip
+source_resumes_300/pdfs/
+assets/*.ttf
+reconstructed_dataset_200/clean_pdfs/
+reconstructed_dataset_200/font_injected_pdfs/
+reconstructed_dataset_200/candidate_text/

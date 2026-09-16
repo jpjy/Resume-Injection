@@ -1,0 +1,8 @@
+{
+  "archive": "source_resumes_300/source_archive.zip",
+  "eligible_new_resume_count": 2181,
+  "jobs": 20,
+  "excluded_old_sample": 300,
+  "query": "title repeated six times plus first 4,500 characters of saved JD",
+  "method": "log-TF-IDF cosine over Kaggle CSV text, selection only"
+}

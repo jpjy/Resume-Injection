@@ -1,0 +1,27 @@
+Who we are
+About Stripe
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
+About the team
+We are building an elite team to drive financial insight and strategy at Stripe. The Finance & Strategy team brings understanding and predictability to Stripe’s financials, and we work together with our key business partners to accelerate long term growth for Stripe.
+What you’ll do
+Responsibilities
+- Partner with F&S and Business Leaders to drive the long-term success of Stripe
+- Work cross functionally to identify important strategy questions and answer them with data
+- Build financial forecasts and targets, track performance, and understand deviations from actuals to drive strategy and operational rigor
+- Gain deep knowledge and understanding of Stripe's business performance across geographies and user segments
+- Define metrics and leading indicators of business performance and partner with the Analytics team to develop tools and dashboards to make these metrics widely accessible across Stripe
+Who you are
+We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+- 7–14 years of experience in a relevant analytical or finance role
+- Intermediate (at a minimum) or advanced knowledge of SQL or Python is required - you must be well versed working with extremely large and complex datasets + extracting insights
+- Experience with financial analysis, financial forecasting, BvA (variance analysis), and other financial concepts
+- Experience working on ambiguous problems and driving solutions/projects independently
+- Ability to automate and use AI to streamline recurring tasks/analyses, in order to free up time to work on more strategic and higher impact work
+- Experience building dashboards and data visualization tools from scratch
+- A proven ability to build strong collaborative working relationships with business partners and department leads. You are seen as a trusted and objective advisor
+- An enthusiastic "roll up your sleeves" mentality
+- A proven ability to be a self-starter capable of driving business results without significant supervision
+- Experience working in a global capacity (this team will work will all regions)
+Preferred qualifications
+Experience in a strategic finance function at a high-growth tech company, preferably in the payments/fintech space
